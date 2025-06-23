@@ -13,7 +13,7 @@ To provide a transparent and decentralized mechanism for ensuring smart contract
 - Register function-based health checks
 - On-chain tracking of status and execution
 - Public, verifiable check history
-- Modular design for multiple contract integrations
+- Modular design for multiple contract  integrations
 
 ## Future Scope
 
