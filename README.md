@@ -1,4 +1,4 @@
-# Project Title: ContractPulse: On-Chain Smart Contract Healthcheck
+# Project Title: ContractPulse: On-Chain Smart Contract Healthcheck 
 
 ## Project Description
 
