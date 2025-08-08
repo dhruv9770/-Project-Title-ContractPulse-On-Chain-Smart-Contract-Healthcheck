@@ -19,7 +19,7 @@ To provide a transparent and decentralized mechanism for ensuring smart contract
 
 - Automated check scheduling via keepers or bots
 - DAO-configured alert system
-- Multi-chain contract observability
+- Multi-chain contract observability 
 - Off-chain metrics integration (via Chainlink)
 
 ## Contract Details
