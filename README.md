@@ -6,7 +6,7 @@ ContractPulse  allows developers ,to register and automate health checks on depl
 
 ## Project Vision 
  
-To provide a transparent and decentralized mechanism for ensuring smart contract reliability by tracking function responsiveness and system integrity over time.
+To provide a transparent and decentralized mechanism for ensuring smart contract reliability by tracking ,function responsiveness and system integrity over time.
 
 ## Key Features
 
