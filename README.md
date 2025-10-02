@@ -2,7 +2,7 @@ ok# Project Title: ContractPulse: On-Chain Smart Contract ..,,Healthcheck
   
 ## Project Description
 
-ContractPulse  allows developers ,to register and automate health checks on deployed smart ,contracts. These checks simulate function calls and log the  ,success or failure onchainenabling contract.monitoring. ,in decentralized environments,
+ContractPulse  allows developers ,to register and automate health checks on deployed smart ,contracts. These checks simulate. function calls and log the  ,success or failure onchainenabling contract.monitoring. ,in decentralized environments,
  
 ## Project Vision 
  
